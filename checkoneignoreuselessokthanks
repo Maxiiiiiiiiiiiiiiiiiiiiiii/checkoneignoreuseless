@@ -1,5 +1,5 @@
 -- // Dependencies
-local Aiming = loadstring(game:HttpGet("https://raw.githubusercontent.com/i-nasa/script/main/checktwo.lua"))()
+local Aiming = loadstring(game:HttpGet("https://raw.githubusercontent.com/Maxiiiiiiiiiiiiiiiiiiiiiii/checktwoignoreokthanksman/main/checktwokignorenothingnew"))()
 Aiming.TeamCheck(false)
 
 -- // Services
